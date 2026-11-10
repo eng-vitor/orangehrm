@@ -121,6 +121,7 @@ class Migration extends AbstractMigration
             'nl',
             'om_ET',
             'th_TH',
+            'pt_BR',
             'vi_VN',
             'zh_Hans_CN',
             'zh_Hant_TW'
